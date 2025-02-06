@@ -1,4 +1,0 @@
-Username:sear
-Password:password
-MotherName:mom
-PetName:bart

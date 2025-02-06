@@ -1,2 +1,0 @@
-So basically main is in the login.java file, just run that and it should work fine. You can change any of the information for the program to
-what you want since its based on the "information.txt" file. Have fun. :)
