@@ -8,10 +8,10 @@ import java.io.FileWriter;
 
 public class User {
     
-	String username;
-	String password;
-	String mothername;
-	String petname;
+	String username = "username";
+	String password = "password";
+	String mothername = "mom";
+	String petname = "darwin";
 	
 	
 	
@@ -45,6 +45,7 @@ public class User {
 	try {
 		if (f.createNewFile()) { //if the file exists, read from it otherwise create it
 		System.out.println("file created");
+		write();
 		} 
 		else {
 		System.out.println("file already exists, reading...");
